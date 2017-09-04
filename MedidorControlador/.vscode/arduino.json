@@ -1,0 +1,7 @@
+{
+    "sketch": "MedidorControlador.ino",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "output": "./build",
+    "port": "COM4"
+}
